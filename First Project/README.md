@@ -67,6 +67,8 @@ In this project, we use a DHT11 sensor to measure temperature and humidity, and 
    - Open Processing and create a new sketch.
 
 3. **Paste the Following Code:**
+   - Copy the following code and paste it into the Processing:
+   - https://github.com/amir-mrt04/IOT-Projects/blob/main/First%20Project/ProcessingCode.pde
 
 
 ## Conclusion
