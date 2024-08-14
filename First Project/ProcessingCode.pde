@@ -1,6 +1,5 @@
 import processing.net.*;
 
-import processing.net.*;
 
 // Client for communicating with NodeMCU
 Client myClient;
