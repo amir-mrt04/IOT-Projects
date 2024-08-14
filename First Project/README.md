@@ -57,17 +57,17 @@ In this project, we use a DHT11 sensor to measure temperature and humidity, and 
 4. **Upload the Code to NodeMCU**:
    - Copy the following code and paste it into the Arduino IDE:
 
-###Step 3: Setting up the Processing Software
-1.**Download and Install Processing:
+### Step 3: Setting up the Processing Software
 
-Download and install Processing from Processing's official website.
-2.**Create a New Processing Sketch:
+1. **Download and Install Processing:**
+   - Download and install Processing from the [Processing official website](https://processing.org/download).
 
-Open Processing and create a new sketch.
+2. **Create a New Processing Sketch:**
+   - Open Processing and create a new sketch.
 
-3. **Upload the Code:
-   - Copy the following code and paste it into the Processing:
+3. **Paste the Following Code:**
 
 
 ##Conclusion
+
 By completing this project, you have successfully set up a system for sensing temperature and humidity using a DHT11 sensor and a NodeMCU, and visualized the data using Processing. This project helps to understand the basics of IoT sensor integration, data transmission over a local network, and real-time data visualization.     
