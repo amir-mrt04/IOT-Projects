@@ -1,4 +1,4 @@
-# IOT-Project
+# IOT-Projects
 
 Welcome to the IoT Projects Repository. This repository contains a collection of projects developed at the Research Center of Professor Dr. Shah Bahrami under the supervision of Dr. Mir Behari's class. These projects are designed to introduce students and researchers to the Internet of Things (IoT) and provide a comprehensive learning experience in this field.
 
