@@ -68,6 +68,6 @@ In this project, we use a DHT11 sensor to measure temperature and humidity, and 
 3. **Paste the Following Code:**
 
 
-##Conclusion
+## Conclusion
 
 By completing this project, you have successfully set up a system for sensing temperature and humidity using a DHT11 sensor and a NodeMCU, and visualized the data using Processing. This project helps to understand the basics of IoT sensor integration, data transmission over a local network, and real-time data visualization.     
