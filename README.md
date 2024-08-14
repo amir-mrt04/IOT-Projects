@@ -13,7 +13,7 @@ Below is a list of projects included in this repository:
 1. **Sensing Temperature and Humidity on the Local Network**
    - **Description**: Monitoring temperature and humidity levels using sensors and transmitting the data over the local network for real-time analysis and visualization.
    - **Project Lead**: [Amirhossien Mortezaei]
-   - [Link to project folder or README]
+   - [https://github.com/amir-mrt04/IOT-Project/tree/main/First%20Project]
 
 ## Research Center and Class Information
 
