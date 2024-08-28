@@ -7,8 +7,8 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-const char* ssid = "Amir";          // Replace with your WiFi SSID
-const char* password = "13821382";  // Replace with your WiFi Password
+const char* ssid = "SSID";          // Replace with your WiFi SSID
+const char* password = "Password";  // Replace with your WiFi Password
 
 WiFiClient client;
 
@@ -62,7 +62,7 @@ void sendDataToNodeRED(float temperature, float humidity) {
     HTTPClient http;
     
     // Replace with your Node-RED IP and port
-    String serverPath = "http://192.168.1.103:1880/dht11";
+    String serverPath = "http://[YOUR_IP]:1880/your-endpoint";
 
     // Create JSON data
     String jsonData = "{\"temperature\":";
