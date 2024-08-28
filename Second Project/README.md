@@ -53,7 +53,7 @@ In this project, a DHT11 sensor is used to measure temperature and humidity. The
 
 4. **Upload the Code to NodeMCU:**
       - Copy the following code and paste it into the Arduino IDE:
-   - https://github.com/amir-mrt04/IOT-Projects/blob/main/Second Project/ArduinoCode.ino
+   - https://github.com/amir-mrt04/IOT-Projects/blob/main/Second%20Project/ArduinoCode.ino
 
 ### Step 3: Setting up Node-RED
 
