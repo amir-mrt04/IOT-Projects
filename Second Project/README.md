@@ -42,14 +42,14 @@ In this project, a DHT11 sensor is used to measure temperature and humidity. The
    - Download from [Arduino’s official website](https://www.arduino.cc/en/software).
 
 2. **Add ESP8266 Board to Arduino IDE:**
-   - Open **File > Preferences** and add:
+   - Open **`File > Preferences`** and add:
      ```
      http://arduino.esp8266.com/stable/package_esp8266com_index.json
      ```
-   - Go to **Tools > Board > Boards Manager**, search for "ESP8266", and install it.
+   - Go to **`Tools > Board > Boards Manager`**, search for "ESP8266", and install it.
 
 3. **Install the DHT Library:**
-   - Go to **Sketch > Include Library > Manage Libraries**, search for "DHT sensor library" by Adafruit, and install it.
+   - Go to **`Sketch > Include Library > Manage Libraries`**, search for "DHT sensor library" by Adafruit, and install it.
 
 4. **Upload the Code to NodeMCU:**
       - Copy the following code and paste it into the Arduino IDE:
@@ -66,6 +66,9 @@ In this project, a DHT11 sensor is used to measure temperature and humidity. The
 3. **Set Up Node-RED Dashboard:**
    - Install `node-red-dashboard` via **Manage palette**.
    - Add visualization nodes like **ui_gauge** or **ui_chart** to display data on the dashboard.
+
+   **You can use this resource for more guidance
+   - `https://nodered.org/docs/tutorials`
 
 ## Usage
 
