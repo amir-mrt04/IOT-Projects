@@ -52,9 +52,8 @@ In this project, a DHT11 sensor is used to measure temperature and humidity. The
    - Go to **Sketch > Include Library > Manage Libraries**, search for "DHT sensor library" by Adafruit, and install it.
 
 4. **Upload the Code to NodeMCU:**
-   - Configure your NodeMCU with the provided code to connect to your WiFi and send data to Node-RED. Customize the code with your WiFi credentials and Node-RED server URL.
-
-   **[NodeMCU Arduino Code](https://github.com/your-username/your-repository/blob/main/NodeMCU_Code.ino)**
+      - Copy the following code and paste it into the Arduino IDE:
+   - https://github.com/amir-mrt04/IOT-Projects/blob/main/Second Project/ArduinoCode.ino
 
 ### Step 3: Setting up Node-RED
 
