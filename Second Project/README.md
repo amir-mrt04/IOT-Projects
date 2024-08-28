@@ -78,12 +78,4 @@ In this project, a DHT11 sensor is used to measure temperature and humidity. The
 
 This project successfully demonstrates how to integrate a NodeMCU with Node-RED for real-time temperature and humidity monitoring. You have configured the NodeMCU to send data over the internet and set up Node-RED to process and visualize this data.
 
-## Repository
 
-- **GitHub Repository**: [your-username/your-repository](https://github.com/your-username/your-repository)
-
-For further details and code, please refer to the files in this repository.
-
----
-
-This README provides a clear and concise guide for users to set up and use the project. Be sure to replace placeholders like `your-username/your-repository` with your actual GitHub repository details.
