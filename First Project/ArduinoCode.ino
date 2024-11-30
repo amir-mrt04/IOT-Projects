@@ -8,8 +8,8 @@
 #include <WiFiClient.h>
 
 // WiFi credentials
-const char* ssid = "Irancell-TD-GP2101-366447";          // Replace with your WiFi SSID
-const char* password = "asad1234";  // Replace with your WiFi Password
+const char* ssid = "SSID";          // Replace with your WiFi SSID
+const char* password = "Password";  // Replace with your WiFi Password
 
 // DHT11 Sensor setup
 #define DHTPIN D4           // D4 pin (GPIO2)
