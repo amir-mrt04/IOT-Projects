@@ -15,7 +15,7 @@ Below is a list of projects included in this repository:
    - **Project Lead**: [Amirhossien Mortezaei]
    - [https://github.com/amir-mrt04/IOT-Project/tree/main/First%20Project]
 
-2.**Sensing Temperature and Humidity Over the Internet (Node-Red)**
+2. **Sensing Temperature and Humidity Over the Internet (Node-Red)**
    - **Description**: Similar to the first project, only in this step we connect to the internet and remotely analyze and display data in real time.
    - **Project Lead**: [Amirhossien Mortezaei]
    - [https://github.com/amir-mrt04/IOT-Projects/tree/main/Second%20Project]
